@@ -1,0 +1,1 @@
+#Get all prime numbers till the number specifed
